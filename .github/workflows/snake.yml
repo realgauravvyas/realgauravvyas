@@ -31,6 +31,7 @@ jobs:
 
       - name: Render Fourier epicycle GIF
         run: |
+          sudo chown -R $USER:$USER dist
           pip install pillow
           python scripts/generate_epicycles.py
 

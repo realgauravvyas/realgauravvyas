@@ -71,8 +71,8 @@ while (curious) {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=realgauravvyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realgauravvyas&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realgauravvyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realgauravvyas&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/github-contribution-grid-snake.svg#gh-light-mode-only" />

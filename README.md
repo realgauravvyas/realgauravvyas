@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=%CE%B2%E2%82%9A%CE%B2%CB%89+%3D+1.066+%C2%B1+0.004+%E2%80%94+a+scattering+coefficient+I+measured;fig%2C+ax+%3D+plt.subplots()+%3B+ax.set_title(%22proof%22);Turning+equations+into+things+you+can+actually+watch+move.;BTech%2C+Data+Science+%26+AI+%E2%80%94+IIT+Guwahati" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=%CE%B2%E2%82%9A%CE%B2%CB%89+%3D+1.066+%C2%B1+0.004+%E2%80%94+a+scattering+coefficient+I+measured;fig%2C+ax+%3D+plt.subplots()+%3B+ax.set_title(%22proof%22);Turning+equations+into+things+you+can+actually+watch+move.;BSc(Hons.)%2C+Data+Science+%26+AI+%E2%80%94+IIT+Guwahati" alt="typing banner" />
 
 </div>
 
@@ -9,8 +9,8 @@
 I build things where the math is the point, not the plumbing — and then I make sure
 you can *see* it happen, not just read about it.
 
-Studying **Data Science & AI** at IIT Guwahati. Most of what's below started as
-"is this actually true?" and turned into a repo.
+Studying for a **BSc(Hons.) in Data Science & AI** at IIT Guwahati. Most of what's
+below started as "is this actually true?" and turned into a repo.
 
 ---
 
@@ -28,6 +28,15 @@ while (curious) {
     ask("why is this surprising?");
 }
 ```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/epicycles.gif" alt="Fourier epicycles tracing a square wave" width="480" />
+
+<sub>Nine rotating circles on the odd harmonics, tracing a square wave — one of the
+250+ live pieces in <a href="https://realgauravvyas.github.io/mathematical-surprises/">Mathematical Surprises</a>, re-rendered daily.</sub>
+
+</div>
 
 ---
 

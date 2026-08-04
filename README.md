@@ -9,7 +9,7 @@
 I build things where the math is the point, not the plumbing — and then I make sure
 you can *see* it happen, not just read about it.
 
-Studying for a **BSc(Hons.) in Data Science & AI** at IIT Guwahati. Most of what's
+Studying for a **BSc(Hons.) in Data Science & AI**, IIT Guwahati and Post Graduate Diploma in Applied Statistics from **ISI, Kolkata**. Most of what's
 below started as "is this actually true?" and turned into a repo.
 
 ---

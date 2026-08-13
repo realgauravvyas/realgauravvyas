@@ -67,12 +67,11 @@ while (curious) {
 
 ---
 
-### 📊 The numbers, visualized (obviously)
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realgauravvyas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realgauravvyas&layout=compact&theme=tokyonight&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/realgauravvyas?style=flat-square&label=followers&color=6C63FF)
+![Stars](https://img.shields.io/github/stars/realgauravvyas?style=flat-square&label=stars&color=6C63FF)
+![Profile views](https://komarev.com/ghpvc/?username=realgauravvyas&style=flat-square&color=6C63FF)
 
 <img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/github-contribution-grid-snake.svg#gh-light-mode-only" />

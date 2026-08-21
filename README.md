@@ -51,34 +51,15 @@ while (curious) {
 
 ---
 
-### 🎮 Also shipping — Blackout Studio
+### 🎮 Blackout Studio
 
-Outside the research, I build complete games solo: engine, art, and audio,
-all of it — a different kind of "does this actually work" test. Two are out
-now, one mobile and one PC, both zero third-party runtime dependencies and
-fully offline, with every sprite and sound generated procedurally at runtime
-instead of shipped as assets.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/realgauravvyas/voltfall/main/shots/15_overdrive.png" width="48%" alt="Voltfall — fully evolved build in Overdrive" />
-<img src="https://raw.githubusercontent.com/realgauravvyas/neon-depths/main/docs/screenshots/combat.png" width="48%" alt="Neon Depths — combat" />
-
-</div>
+I also build complete games solo — engine, art and audio. Both are zero-dependency
+and fully offline, with every sprite and sound generated at runtime.
 
 | | |
 |---|---|
-| 📱 **[Voltfall](https://github.com/realgauravvyas/voltfall)** — Android | Neon survival-action roguelite. Custom `SurfaceView` engine, procedural audio synth, ~90 KB download. [**Get it →**](https://github.com/realgauravvyas/voltfall/releases/latest) |
-| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/neon-depths)** — Windows | Neon twin-stick roguelite. Twelve procedural floors, four multi-phase bosses, thirty stacking upgrades. [**Get it →**](https://github.com/realgauravvyas/neon-depths/releases/latest) |
-
-<div align="center">
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</div>
+| 📱 **[Voltfall](https://github.com/realgauravvyas/blackout-studio/tree/main/voltfall)** — Android | Neon survival-action roguelite, ~95 KB |
+| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/blackout-studio/tree/main/neon-depths)** — Windows | Neon twin-stick roguelite, twelve floors, one life |
 
 ---
 

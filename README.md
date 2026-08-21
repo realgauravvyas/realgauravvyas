@@ -59,7 +59,7 @@ and fully offline, with every sprite and sound generated at runtime.
 | | |
 |---|---|
 | 📱 **[Voltfall](https://github.com/realgauravvyas/blackout-studio/tree/main/voltfall)** — Android | Neon survival-action roguelite, ~95 KB |
-| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/blackout-studio/tree/main/neon-depths)** — Windows | Neon twin-stick roguelite, twelve floors, one life |
+| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/blackout-studio/tree/main/neon-depths)** — Windows | Neon twin-stick roguelite, twelve floors, one life, ~99 MB |
 
 ---
 

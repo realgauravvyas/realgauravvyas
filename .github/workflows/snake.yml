@@ -29,11 +29,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Render Fourier epicycle GIF
+      - name: Render generated visuals
         run: |
           sudo chown -R $USER:$USER dist
           pip install pillow
           python scripts/generate_epicycles.py
+          python scripts/generate_ramanujan.py
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

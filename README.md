@@ -4,7 +4,7 @@
 
 <a href="https://realgauravvyas.github.io/"><img src="https://img.shields.io/badge/portfolio-what%20survives%20the%20sieve-FFC14D?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf"><img src="https://img.shields.io/badge/resume-PDF-E55039?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0D1117" alt="Resume PDF" /></a>
-<a href="https://www.socialpsychology.org/member/gaurav-vyas"><img src="https://img.shields.io/badge/personal%20website-social%20psychology%20network-4B6584?style=for-the-badge&labelColor=0D1117" alt="Personal Website - Social Psychology Network" /></a>
+<a href="https://www.socialpsychology.org/member/gaurav-vyas"><img src="https://img.shields.io/badge/academic%20profile-social%20psychology%20network-4B6584?style=for-the-badge&labelColor=0D1117" alt="Academic Profile - Social Psychology Network" /></a>
 <a href="https://oeis.org/A181671"><img src="https://img.shields.io/badge/OEIS%20A181671-a(18)--a(23)%20published-6C63FF?style=for-the-badge&labelColor=0D1117" alt="OEIS A181671" /></a>
 <a href="https://oeis.org/A190502"><img src="https://img.shields.io/badge/OEIS%20A190502-a(57)--a(72)%20published-00b894?style=for-the-badge&labelColor=0D1117" alt="OEIS A190502" /></a>
 <a href="https://realgauravvyas.github.io/drosomind/"><img src="https://img.shields.io/badge/DROSOMIND-3D%20Connectome%20Live-FF007F?style=for-the-badge&labelColor=0D1117" alt="DROSOMIND" /></a>
@@ -21,15 +21,15 @@ you can *see* it happen, not just read about it.
 ISI Kolkata. Most of what's below started as *"is this actually true?"* and turned into
 a repo. Two of them turned into official extensions in the OEIS.
 
-🌐 **Personal Website & Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf)
+🌐 **Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf)
 
 <div align="center">
 
 ### 🔶 [**realgauravvyas.github.io**](https://realgauravvyas.github.io/)
 
-Twenty-two projects and experiments, indexed by the Ramanujan primes that survive a real sieve running in
+Twelve projects and experiments, indexed by the Ramanujan primes that survive a real sieve running in
 your browser. Click a gold number, land on the work — including the OEIS entries below,
-the AES key I pulled out of power traces, and the chess result I didn't want.
+the AES key I pulled out of power traces, and the live DROSOMIND connectome simulation.
 
 </div>
 
@@ -107,34 +107,17 @@ while (curious) {
 | | |
 |---|---|
 | 🪰 **[drosomind](https://github.com/realgauravvyas/drosomind)** ([Live Demo](https://realgauravvyas.github.io/drosomind/)) | Live in-silico male fruit fly connectome & bio-acoustic organism simulator (Google Research *Cell* 2026 milestone) |
-| ♟️ **[chess-ai](https://github.com/realgauravvyas/chess-ai)** | A 760k-parameter residual policy–value net: supervised pretraining, then gated self-play RL, with a live training dashboard — see below for what it actually measured |
-| ✍️ **[ocr2tex](https://github.com/realgauravvyas/ocr2tex)** | LoRA fine-tunes of GLM-OCR turning handwritten math into compilable LaTeX |
+| ♟️ **[chess-ai](https://github.com/realgauravvyas/chess-ai)** | A 760k-parameter residual policy–value net: supervised pretraining, then gated self-play RL, with a live training dashboard |
+| ✍️ **[ocr2tex](https://github.com/realgauravvyas/ocr2tex)** | LoRA fine-tunes of GLM-OCR &amp; Baidu OCR turning handwritten mathematics into compilable LaTeX PDFs |
 | 🤖 **[Gemini-AI-Studio](https://github.com/realgauravvyas/Gemini-AI-Studio)** | Gemini-powered assignment evaluator |
 
 **Applied**
 
 | | |
 |---|---|
-| 🌱 **[carboncampus](https://realgauravvyas.github.io/carboncampus/)** | Campus-calibrated urban carbon calculator — offline-first PWA, no backend needed. Avinya 2026, IIT Guwahati |
+| 🌱 **[carboncampus](https://realgauravvyas.github.io/carboncampus/)** | Campus-calibrated urban carbon calculator — offline-first PWA, no backend needed |
 | 🛰️ **[drishti](https://github.com/realgauravvyas/drishti)** | Post-disaster "information fog" resolver: calibrated belief over conflicting settlement reports plus asset routing on a damaged road network |
-| 📷 **[hemispheR-py](https://github.com/realgauravvyas/hemispheR-py)** | Hemispherical canopy photo analysis — LAI, clumping, gap fraction, without OpenCV or R |
-
----
-
-### 🧪 A result I didn't want
-
-The chess engine's self-play half **did not work**, and that's the interesting part.
-A 40-game match against its own frozen pretrained baseline scored **46.2%**
-(95% CI 37.4–55.1) — no detectable improvement. The run before it was actively *worse*,
-and the reason took a while to find: the eval metric had been scoring one colour while
-the net alternated, so 159 logged evaluation points sat pinned at exactly 50% and
-carried no information at all. Mirror augmentation was also flipping board files without
-swapping the castling planes, quietly corrupting half of every minibatch.
-
-The binding constraint turned out to be sample efficiency — 128 simulations is about
-4.3 visits per legal move, against AlphaZero's ~27. All of it is written up in the
-repo's `RESULTS.md`, because a negative result you can reproduce is worth more than a
-positive one you can't.
+| 📷 **[hemispheR-py](https://github.com/realgauravvyas/hemispheR-py)** | Clean-room canopy photo analysis from first principles (LAI &amp; gap fraction) paired with a native Android field app |
 
 ---
 
@@ -195,7 +178,7 @@ The GitHub contribution snake animation is automatically drawn fresh by CI on ev
 
 <div align="center">
 
-📄 [**Resume (PDF)**](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; 🌐 [**Personal Website &amp; Profile**](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 🔶 [**Interactive Portfolio**](https://realgauravvyas.github.io/) &bull; ✉️ [**g.vyas@op.iitg.ac.in**](mailto:g.vyas@op.iitg.ac.in)
+📄 [**Resume (PDF)**](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; 🌐 [**Academic Profile**](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 🔶 [**Interactive Portfolio**](https://realgauravvyas.github.io/) &bull; ✉️ [**Contact**](mailto:g.vyas@op.iitg.ac.in)
 
 </div>
 

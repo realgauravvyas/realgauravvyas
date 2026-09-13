@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=680&lines=a%2818%29-a%2823%29%20from%20Gaurav%20Vyas%20%20--%20%20OEIS%20A181671%3BRamanujan%20primes%20past%2010%5E23%2C%20computed%20on%20a%20laptop%3BTurning%20equations%20into%20things%20you%20can%20actually%20watch%20move.%3BBSc%28Hons.%29%20Data%20Science%20%26%20AI%2C%20IIT%20Guwahati" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=OEIS%20A181671%20%26%20A190502%20Published%20Extensions%3BRamanujan%20primes%20to%2010%5E23%20%26%202%5E72%20on%20a%20laptop%3BDROSOMIND%3A%20Live%20Fruit%20Fly%20Connectome%20Simulator%20%28Cell%202026%29%3BTurning%20equations%20into%20things%20you%20can%20watch%20move%3BBSc%28Hons.%29%20Data%20Science%20%26%20AI%2C%20IIT%20Guwahati" alt="typing banner" />
 
 <a href="https://realgauravvyas.github.io/"><img src="https://img.shields.io/badge/portfolio-what%20survives%20the%20sieve-FFC14D?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
 <a href="https://oeis.org/A181671"><img src="https://img.shields.io/badge/OEIS%20A181671-a(18)--a(23)%20published-6C63FF?style=for-the-badge&labelColor=0D1117" alt="OEIS A181671" /></a>
+<a href="https://oeis.org/A190502"><img src="https://img.shields.io/badge/OEIS%20A190502-a(57)--a(72)%20published-00b894?style=for-the-badge&labelColor=0D1117" alt="OEIS A190502" /></a>
+<a href="https://realgauravvyas.github.io/drosomind/"><img src="https://img.shields.io/badge/DROSOMIND-3D%20Connectome%20Live-FF007F?style=for-the-badge&labelColor=0D1117" alt="DROSOMIND" /></a>
 <a href="https://realgauravvyas.github.io/mathematical-surprises/"><img src="https://img.shields.io/badge/live-250%2B%20visualizations-00E6C8?style=for-the-badge&labelColor=0D1117" alt="Mathematical Surprises" /></a>
 
 </div>
@@ -15,14 +17,14 @@ you can *see* it happen, not just read about it.
 
 **BSc(Hons.) Data Science & AI**, IIT Guwahati · **PG Diploma in Applied Statistics**,
 ISI Kolkata. Most of what's below started as *"is this actually true?"* and turned into
-a repo. One of them turned into an entry in the OEIS.
+a repo. Two of them turned into official extensions in the OEIS.
 
 <div align="center">
 
 ### 🔶 [**realgauravvyas.github.io**](https://realgauravvyas.github.io/)
 
-Twelve projects, indexed by the Ramanujan primes that survive a real sieve running in
-your browser. Click a gold number, land on the work — including the OEIS entry below,
+Twenty-two projects and experiments, indexed by the Ramanujan primes that survive a real sieve running in
+your browser. Click a gold number, land on the work — including the OEIS entries below,
 the AES key I pulled out of power traces, and the chess result I didn't want.
 
 </div>

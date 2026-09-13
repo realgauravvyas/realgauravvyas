@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=B.Sc.+(Hons.)+Data+Science+%26+AI+%E2%80%94+IIT+Guwahati;Deep-Learning+AES-128+Side-Channel+Cryptanalysis;DROSOMIND%3A+Live+3D+Connectome+Spiking+Neural+Net;Vision-Language+Math+Document+AI+%26+LaTeX+PDFs;PG+Diploma+in+Applied+Statistics+%E2%80%94+ISI+Kolkata;OEIS+A181671+%26+A190502+Published+Extensions" alt="typing banner" />
 
 <a href="https://realgauravvyas.github.io/"><img src="https://img.shields.io/badge/portfolio-what%20survives%20the%20sieve-FFC14D?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
-<a href="https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf"><img src="https://img.shields.io/badge/resume-view-E55039?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0D1117" alt="Resume" /></a>
-<a href="https://www.socialpsychology.org/member/gaurav-vyas"><img src="https://img.shields.io/badge/academic%20profile-social%20psychology%20network-4B6584?style=for-the-badge&labelColor=0D1117" alt="Academic Profile - Social Psychology Network" /></a>
+<a href="mailto:g.vyas@op.iitg.ac.in"><img src="https://img.shields.io/badge/contact-g.vyas%40op.iitg.ac.in-20bf6b?style=for-the-badge&labelColor=0D1117" alt="Contact" /></a>
 <a href="https://realgauravvyas.github.io/drosomind/"><img src="https://img.shields.io/badge/DROSOMIND-3D%20Connectome%20Live-FF007F?style=for-the-badge&labelColor=0D1117" alt="DROSOMIND" /></a>
 <a href="https://huggingface.co/ctogaurav"><img src="https://img.shields.io/badge/Hugging%20Face-GGUF%20Models-FFAA00?style=for-the-badge&labelColor=0D1117" alt="Hugging Face" /></a>
 <a href="https://oeis.org/A181671"><img src="https://img.shields.io/badge/OEIS%20A181671-a(18)--a(23)%20published-6C63FF?style=for-the-badge&labelColor=0D1117" alt="OEIS A181671" /></a>
@@ -16,7 +15,7 @@
 
 Student of **IIT Guwahati** in B.Sc. (Hons.) Data Science &amp; Artificial Intelligence (CPI 7.5, Oct 2023 – Sep 2027), with degree research centered on **deep-learning side-channel cryptanalysis** (recovering a certified 128-bit AES key from physical power traces), **vision-language mathematical document AI**, and **computational neuroscience** — complemented by statistical training as a student of **ISI Kolkata** in the Post Graduate Diploma in Applied Statistics (Aug 2026 – Aug 2027; qualified admission test with full tuition fee waiver of ₹4,50,000), alongside extending and publishing **OEIS A181671** (to 10²³) and **OEIS A190502** (to 2⁷²).
 
-🌐 **Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; ✉️ **Contact:** [g.vyas@op.iitg.ac.in](mailto:g.vyas@op.iitg.ac.in)
+✉️ **Contact:** [g.vyas@op.iitg.ac.in](mailto:g.vyas@op.iitg.ac.in) &bull; 🔶 **Portfolio:** [realgauravvyas.github.io](https://realgauravvyas.github.io/)
 
 <div align="center">
 
@@ -135,7 +134,7 @@ The GitHub contribution snake animation is automatically drawn fresh by CI on ev
 
 <div align="center">
 
-📄 [**Resume (PDF)**](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; 🌐 [**Academic Profile**](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 🔶 [**Interactive Portfolio**](https://realgauravvyas.github.io/) &bull; ✉️ [**Contact**](mailto:g.vyas@op.iitg.ac.in)
+🔶 [**Interactive Portfolio**](https://realgauravvyas.github.io/) &bull; ✉️ [**Contact**](mailto:g.vyas@op.iitg.ac.in)
 
 </div>
 

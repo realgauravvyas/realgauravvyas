@@ -31,16 +31,19 @@ the AES key I pulled out of power traces, and the chess result I didn't want.
 
 ### 📐 In the OEIS
 
-In August 2026, six terms I computed were accepted into
-**[OEIS A181671](https://oeis.org/A181671)** — the count of Ramanujan primes below each
-power of ten. The sequence's EXTENSIONS section now reads:
+Two sequence extensions I computed have been accepted and published in the
+**On-Line Encyclopedia of Integer Sequences (OEIS)**:
 
-> a(18)-a(23) from *Gaurav Vyas*, Aug 15 2026
+- **[OEIS A181671](https://oeis.org/A181671)** (Base 10) — The count of Ramanujan primes below powers of ten.
+  Extended the table from 10¹⁷ out to **10²³** (accepted 15 Aug 2026, `a(18)-a(23) from Gaurav Vyas`).
+  The [b-file](https://oeis.org/A181671/b181671.txt) now runs `n = 1..23`.
 
-That pushes the table from 10¹⁷ out to **10²³**, computed on a laptop and a desktop —
-no institute, no cluster — with a 128-bit segmented sieve, bracketed analytic tail
-bounds, and a machine-checkable certificate behind every term. The
-[b-file](https://oeis.org/A181671/b181671.txt) now runs `n = 1..23`.
+- **[OEIS A190502](https://oeis.org/A190502)** (Base 2) — The count of Ramanujan primes below powers of two ($2^n$).
+  Extended the table from $n=56$ out to **2⁷²** (approved by editor Joerg Arndt on 13 Sep 2026).
+  The official [b-file](https://oeis.org/A190502/b190502.txt) now runs through $n=72$, and the OEIS entry directly links to
+  [ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56).
+
+Both were computed entirely on a laptop and a desktop — no institute, no cluster — with a 128-bit segmented sieve, bracketed analytic tail bounds, and machine-checkable certificates behind every term.
 
 <div align="center">
 
@@ -86,14 +89,15 @@ live pieces in <a href="https://realgauravvyas.github.io/mathematical-surprises/
 
 | | |
 |---|---|
-| 🔢 **[ramanujan-primes-beyond-1e19](https://github.com/realgauravvyas/ramanujan-primes-beyond-1e19)** | The A181671 extension above — paper, C++/Python sieve, and certificates for a(1)–a(23) |
-| ⚡ **[ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56)** | The base-2 sibling: a(57)–a(72) of A190502 certified by the same method, Q = 2ⁿ instead of 10ᵏ |
+| 🔢 **[ramanujan-primes-beyond-1e19](https://github.com/realgauravvyas/ramanujan-primes-beyond-1e19)** | The A181671 extension: a(18)–a(23) published in OEIS — paper, C++/Python sieve, and certificates |
+| ⚡ **[ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56)** | The base-2 sibling: a(57)–a(72) of A190502 accepted and published in the OEIS through 2⁷² |
 | 🌀 **[mathematical-surprises](https://github.com/realgauravvyas/mathematical-surprises)** | A live gallery of interactive math & physics — the equation, the picture, and *why it's weird*, side by side |
 
-**Machine learning**
+**Machine learning & computational biology**
 
 | | |
 |---|---|
+| 🪰 **[drosomind](https://github.com/realgauravvyas/drosomind)** ([Live Demo](https://realgauravvyas.github.io/drosomind/)) | Live in-silico male fruit fly connectome & bio-acoustic organism simulator (Google Research *Cell* 2026 milestone) |
 | ♟️ **[chess-ai](https://github.com/realgauravvyas/chess-ai)** | A 760k-parameter residual policy–value net: supervised pretraining, then gated self-play RL, with a live training dashboard — see below for what it actually measured |
 | ✍️ **[ocr2tex](https://github.com/realgauravvyas/ocr2tex)** | LoRA fine-tunes of GLM-OCR turning handwritten math into compilable LaTeX |
 | 🤖 **[Gemini-AI-Studio](https://github.com/realgauravvyas/Gemini-AI-Studio)** | Gemini-powered assignment evaluator |

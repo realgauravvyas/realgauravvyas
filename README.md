@@ -48,17 +48,18 @@ Two sequence extensions I computed have been accepted and published in the
   The official [b-file](https://oeis.org/A190502/b190502.txt) now runs through $n=72$, and the OEIS entry directly links to
   [ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56).
 
-Both were computed entirely on a laptop and a desktop — no institute, no cluster — with a 128-bit segmented sieve, bracketed analytic tail bounds, and machine-checkable certificates behind every term.
+Both were computed entirely on a consumer laptop and desktop — no institute, no cluster — with a 128-bit segmented sieve, bracketed analytic tail bounds, and machine-checkable certificates behind every term.
 
-<div align="center">
+| Published Sequence | Base / Domain | Previous Record | Extended &amp; Published Record (Gaurav Vyas) | Status | Verification &amp; Source |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **[OEIS A181671](https://oeis.org/A181671)** | Base 10 ($10^n$) | $10^{17}$ | **$10^{23}$** (`a(18)–a(23)`) | **Published** (Aug 2026) | [Official b-file](https://oeis.org/A181671/b181671.txt) &bull; [GitHub Repo](https://github.com/realgauravvyas/ramanujan-primes-beyond-1e19) |
+| **[OEIS A190502](https://oeis.org/A190502)** | Base 2 ($2^n$) | $2^{56}$ | **$2^{72}$** (`a(57)–a(72)`) | **Published** (Sep 2026) | [Official b-file](https://oeis.org/A190502/b190502.txt) &bull; [GitHub Repo](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56) |
 
-<img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/ramanujan.gif" alt="The counting function pi(x) - pi(x/2) climbing, with each Ramanujan prime marked" width="480" />
-
-<sub>The definition, animated: π(x) − π(x/2) climbing, and each Ramanujan prime <i>Rₙ</i>
-lighting up at the <i>last</i> place the curve crosses level n — which is exactly what
-makes it Rₙ. Rendered fresh by CI.</sub>
-
-</div>
+```text
+Definition : Rₙ is the smallest integer such that π(x) - π(x/2) ≥ n for all x ≥ Rₙ
+Technique  : 128-bit Segmented Sieve of Eratosthenes + Bracketed Analytic Tail Bounds
+Execution  : High-performance C++20 / Python with independent mathematical certificates
+```
 
 ```
 while (curious) {
@@ -70,21 +71,23 @@ while (curious) {
 
 ---
 
-### 🔭 Live right now
+### 🔭 Live Interactive Simulations & Experiments
 
-**[Mathematical Surprises →](https://realgauravvyas.github.io/mathematical-surprises/)**
-250+ interactive visualizations — fractals, chaos, number theory, calculus — each one a
-real simulation you can drag sliders on, not a screenshot. Opens the same on your phone
-as on your laptop.
+<p align="center">
+  <a href="https://realgauravvyas.github.io/drosomind/">
+    <img src="https://raw.githubusercontent.com/realgauravvyas/drosomind/main/assets/screenshots/dashboard_split_view.png" alt="DROSOMIND Live Connectome Simulator" width="100%" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>🪰 <a href="https://realgauravvyas.github.io/drosomind/">DROSOMIND — Live In-Silico Connectome Organism</a></b><br>
+  <i>Dual Split View: 3D Connectome (166k neurons, 125M synapses) paired with an articulated Drosophila melanogaster model &amp; real-time LIF neural dynamics (inspired by Google Research &amp; HHMI Janelia, Cell 2026).</i>
+</p>
 
-<img src="https://raw.githubusercontent.com/realgauravvyas/realgauravvyas/output/epicycles.gif" alt="Fourier epicycles tracing a square wave" width="480" />
-
-<sub>Nine rotating circles on the odd harmonics, tracing a square wave — one of the 250+
-live pieces in <a href="https://realgauravvyas.github.io/mathematical-surprises/">Mathematical Surprises</a>.</sub>
-
-</div>
+| 🪰 **[DROSOMIND Simulator](https://realgauravvyas.github.io/drosomind/)** | 🌀 **[Mathematical Surprises](https://realgauravvyas.github.io/mathematical-surprises/)** | 🔶 **[What Survives The Sieve](https://realgauravvyas.github.io/)** | 🌱 **[CarbonCampus PWA](https://realgauravvyas.github.io/carboncampus/)** |
+| :---: | :---: | :---: | :---: |
+| 166k neurons &middot; 125M synapses &middot; 3D fly organism | 250+ live interactive simulations with real-time sliders | Live in-browser Sieve of Eratosthenes indexing 12 projects | Offline-first campus carbon calculator (Avinya 2026) |
+| [Launch Simulator ↗](https://realgauravvyas.github.io/drosomind/) | [Explore 250+ Visuals ↗](https://realgauravvyas.github.io/mathematical-surprises/) | [Visit Live Portfolio ↗](https://realgauravvyas.github.io/) | [Open Web App ↗](https://realgauravvyas.github.io/carboncampus/) |
 
 ---
 
@@ -172,18 +175,7 @@ fully offline, with every sprite and sound generated at runtime.
 
 <br>
 
-Neither animation above is a checked-in file. Both are drawn from scratch by CI on every
-push to `main` and again once a day, then published to the `output` branch:
-
-- [`scripts/generate_ramanujan.py`](scripts/generate_ramanujan.py) — sieves primes, computes
-  π(x) − π(x/2), solves for each Rₙ as the last crossing of level n, and animates the sweep.
-  It asserts its own output against the known head of A104272, so a broken render fails the
-  build instead of shipping a wrong picture.
-- [`scripts/generate_epicycles.py`](scripts/generate_epicycles.py) — sums nine odd harmonics
-  into a square wave and traces the tip.
-
-Both are pure Pillow, no matplotlib, so the whole job stays cheap. The contribution snake
-comes from [`Platane/snk`](https://github.com/Platane/snk).
+The GitHub contribution snake animation is automatically drawn fresh by CI on every push to `main` and once daily, then published to the `output` branch via [`Platane/snk`](https://github.com/Platane/snk).
 
 </details>
 

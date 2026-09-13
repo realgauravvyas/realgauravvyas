@@ -1,55 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=OEIS%20A181671%20%26%20A190502%20Published%20Extensions%3BRamanujan%20primes%20to%2010%5E23%20%26%202%5E72%20on%20a%20laptop%3BDROSOMIND%3A%20Live%20Fruit%20Fly%20Connectome%20Simulator%20%28Cell%202026%29%3BTurning%20equations%20into%20things%20you%20can%20watch%20move%3BBSc%28Hons.%29%20Data%20Science%20%26%20AI%2C%20IIT%20Guwahati" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=B.Sc.+(Hons.)+Data+Science+%26+AI+%E2%80%94+IIT+Guwahati;Deep-Learning+AES-128+Side-Channel+Cryptanalysis;DROSOMIND%3A+Live+3D+Connectome+Spiking+Neural+Net;Vision-Language+Math+Document+AI+%26+LaTeX+PDFs;PG+Diploma+in+Applied+Statistics+%E2%80%94+ISI+Kolkata;OEIS+A181671+%26+A190502+Published+Extensions" alt="typing banner" />
 
 <a href="https://realgauravvyas.github.io/"><img src="https://img.shields.io/badge/portfolio-what%20survives%20the%20sieve-FFC14D?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
-<a href="https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf"><img src="https://img.shields.io/badge/resume-PDF-E55039?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0D1117" alt="Resume PDF" /></a>
+<a href="https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf"><img src="https://img.shields.io/badge/resume-view-E55039?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=0D1117" alt="Resume" /></a>
 <a href="https://www.socialpsychology.org/member/gaurav-vyas"><img src="https://img.shields.io/badge/academic%20profile-social%20psychology%20network-4B6584?style=for-the-badge&labelColor=0D1117" alt="Academic Profile - Social Psychology Network" /></a>
+<a href="https://realgauravvyas.github.io/drosomind/"><img src="https://img.shields.io/badge/DROSOMIND-3D%20Connectome%20Live-FF007F?style=for-the-badge&labelColor=0D1117" alt="DROSOMIND" /></a>
+<a href="https://huggingface.co/ctogaurav"><img src="https://img.shields.io/badge/Hugging%20Face-GGUF%20Models-FFAA00?style=for-the-badge&labelColor=0D1117" alt="Hugging Face" /></a>
 <a href="https://oeis.org/A181671"><img src="https://img.shields.io/badge/OEIS%20A181671-a(18)--a(23)%20published-6C63FF?style=for-the-badge&labelColor=0D1117" alt="OEIS A181671" /></a>
 <a href="https://oeis.org/A190502"><img src="https://img.shields.io/badge/OEIS%20A190502-a(57)--a(72)%20published-00b894?style=for-the-badge&labelColor=0D1117" alt="OEIS A190502" /></a>
-<a href="https://realgauravvyas.github.io/drosomind/"><img src="https://img.shields.io/badge/DROSOMIND-3D%20Connectome%20Live-FF007F?style=for-the-badge&labelColor=0D1117" alt="DROSOMIND" /></a>
-<a href="https://realgauravvyas.github.io/mathematical-surprises/"><img src="https://img.shields.io/badge/live-250%2B%20visualizations-00E6C8?style=for-the-badge&labelColor=0D1117" alt="Mathematical Surprises" /></a>
 
 </div>
 
 # Gaurav Vyas
 
-I build things where the math is the point, not the plumbing — and then I make sure
-you can *see* it happen, not just read about it.
+Student of **IIT Guwahati** in B.Sc. (Hons.) Data Science &amp; Artificial Intelligence (CGPA 7.75), with degree research centered on **deep-learning side-channel cryptanalysis** (recovering a certified 128-bit AES key from physical power traces), **vision-language mathematical document AI**, and **computational neuroscience** — complemented by statistical training as a student of **ISI Kolkata** in the Post Graduate Diploma in Applied Statistics (competitive merit entrance, full scholarship), alongside extending and publishing **OEIS A181671** (to 10²³) and **OEIS A190502** (to 2⁷²).
 
-**BSc(Hons.) Data Science & AI**, IIT Guwahati · **PG Diploma in Applied Statistics**,
-ISI Kolkata. Most of what's below started as *"is this actually true?"* and turned into
-a repo. Two of them turned into official extensions in the OEIS.
-
-🌐 **Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf)
+🌐 **Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; ✉️ **Contact:** [g.vyas@op.iitg.ac.in](mailto:g.vyas@op.iitg.ac.in)
 
 <div align="center">
 
 ### 🔶 [**realgauravvyas.github.io**](https://realgauravvyas.github.io/)
 
-Twelve projects and experiments, indexed by the Ramanujan primes that survive a real sieve running in
-your browser. Click a gold number, land on the work — including the OEIS entries below,
-the AES key I pulled out of power traces, and the live DROSOMIND connectome simulation.
+Interactive research portfolio indexed by Ramanujan primes running in a real in-browser sieve. Click an anchor to jump directly to the work.
 
 </div>
 
 ---
 
-### 📐 In the OEIS
+### 🧠 AI &amp; Data Science Research
 
-Two sequence extensions I computed have been accepted and published in the
-**On-Line Encyclopedia of Integer Sequences (OEIS)**:
+My primary research centers on machine learning, deep neural architectures, and data science applied to physical systems, document intelligence, and neural connectomics.
 
-- **[OEIS A181671](https://oeis.org/A181671)** (Base 10) — The count of Ramanujan primes below powers of ten.
-  Extended the table from 10¹⁷ out to **10²³** (accepted 15 Aug 2026, `a(18)-a(23) from Gaurav Vyas`).
-  The [b-file](https://oeis.org/A181671/b181671.txt) now runs `n = 1..23`.
+| Project / Repository | Focus Area &amp; Architecture | Key Results &amp; Artifacts | Links |
+| :--- | :--- | :--- | :--- |
+| **Deep-Learning AES-128 Key Recovery** | Side-channel cryptanalysis &bull; Domain adaptation &bull; ASCAD traces | **16/16 key bytes recovered**; $\log_2 \text{rank} \le 1$ across 3 seeds; guessing entropy 0 at 2k traces | IIT Guwahati B.Sc. Degree Project |
+| **[DROSOMIND](https://github.com/realgauravvyas/drosomind)** | Computational Neuroscience &bull; Spiking Neural Network &bull; LIF | **166k neurons &middot; 125M synapses**; 16-wedge ring attractor compass; courtship song audio synthesis; Google Research *Cell* 2026 | [Live Simulation ↗](https://realgauravvyas.github.io/drosomind/) &bull; [Repo](https://github.com/realgauravvyas/drosomind) |
+| **[ocr2tex](https://github.com/realgauravvyas/ocr2tex)** | Vision-Language &bull; Document AI &bull; GLM-OCR &amp; Baidu OCR | **100% compile rate** via body-first preamble synthesis; 15,829 scanned math pages; end-to-end standalone PDF generation | [Hugging Face Models ↗](https://huggingface.co/ctogaurav) &bull; [Repo](https://github.com/realgauravvyas/ocr2tex) |
+| **[chess-ai](https://github.com/realgauravvyas/chess-ai)** | Reinforcement Learning &bull; Policy-Value Residual Net | 760k-parameter AlphaZero architecture; rigorous sample efficiency analysis and mutation testing | [Live Dashboard ↗](https://realgauravvyas.github.io/chess-ai/) &bull; [Repo](https://github.com/realgauravvyas/chess-ai) |
+| **[drishti](https://github.com/realgauravvyas/drishti)** | Probabilistic Modeling &bull; Crisis Data Science | Calibrated Bayesian belief resolution over conflicting field reports + emergency routing | [Repo](https://github.com/realgauravvyas/drishti) |
+| **[RouteGuard](https://github.com/realgauravvyas/TechTitan-RouteGuard-Agentic)** | Agentic Systems &bull; Symbolic Planning | Model-based autonomous recovery; 17/17 tests, 80/80 oracle agreement; stdlib Python | [Live Demo ↗](https://realgauravvyas.github.io/TechTitan-RouteGuard-Agentic/) &bull; [Repo](https://github.com/realgauravvyas/TechTitan-RouteGuard-Agentic) |
 
-- **[OEIS A190502](https://oeis.org/A190502)** (Base 2) — The count of Ramanujan primes below powers of two ($2^n$).
-  Extended the table from $n=56$ out to **2⁷²** (approved by editor Joerg Arndt on 13 Sep 2026).
-  The official [b-file](https://oeis.org/A190502/b190502.txt) now runs through $n=72$, and the OEIS entry directly links to
-  [ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56).
+<p align="center">
+  <a href="https://realgauravvyas.github.io/drosomind/">
+    <img src="https://raw.githubusercontent.com/realgauravvyas/drosomind/main/assets/screenshots/dashboard_split_view.png" alt="DROSOMIND Live Connectome Simulator" width="100%" />
+  </a>
+</p>
 
-Both were computed entirely on a consumer laptop and desktop — no institute, no cluster — with a 128-bit segmented sieve, bracketed analytic tail bounds, and machine-checkable certificates behind every term.
+---
+
+### 🔭 Computational Mathematics &amp; Interactive Simulations
+
+Turning complex mathematical and physical structures into real-time interactive systems:
+
+| 🌀 **[Mathematical Surprises](https://realgauravvyas.github.io/mathematical-surprises/)** | 🏛️ **[Millennium Prize Problems](https://realgauravvyas.github.io/MillenniumProblems/)** | 🔶 **[What Survives The Sieve](https://realgauravvyas.github.io/)** |
+| :---: | :---: | :---: |
+| 250+ live interactive simulations with real-time parameter exploration | All 7 problems explained with exact arithmetic &amp; live zeta zero computation | In-browser Sieve of Eratosthenes indexing 12 verified projects |
+| [Explore Visualizations ↗](https://realgauravvyas.github.io/mathematical-surprises/) | [Simulate Millennium Problems ↗](https://realgauravvyas.github.io/MillenniumProblems/) | [Visit Live Portfolio ↗](https://realgauravvyas.github.io/) |
+
+---
+
+### 📐 Sequence Extensions in the OEIS
+
+Official sequence extensions computed, verified with independent certificates, and published in the **On-Line Encyclopedia of Integer Sequences**:
 
 | Published Sequence | Base / Domain | Previous Record | Extended &amp; Published Record (Gaurav Vyas) | Status | Verification &amp; Source |
 | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -62,74 +75,18 @@ Technique  : 128-bit Segmented Sieve of Eratosthenes + Bracketed Analytic Tail B
 Execution  : High-performance C++20 / Python with independent mathematical certificates
 ```
 
-```
-while (curious) {
-    pick_an_equation();
-    make_it_move();
-    ask("why is this surprising?");
-}
-```
-
 ---
 
-### 🔭 Live Interactive Simulations & Experiments
+### 🎮 Game Development &amp; Edge Systems
 
-<p align="center">
-  <a href="https://realgauravvyas.github.io/drosomind/">
-    <img src="https://raw.githubusercontent.com/realgauravvyas/drosomind/main/assets/screenshots/dashboard_split_view.png" alt="DROSOMIND Live Connectome Simulator" width="100%" />
-  </a>
-</p>
+Zero-dependency offline games and field-ready applications:
 
-<p align="center">
-  <b>🪰 <a href="https://realgauravvyas.github.io/drosomind/">DROSOMIND — Live In-Silico Connectome Organism</a></b><br>
-  <i>Dual Split View: 3D Connectome (166k neurons, 125M synapses) paired with an articulated Drosophila melanogaster model &amp; real-time LIF neural dynamics (inspired by Google Research &amp; HHMI Janelia, Cell 2026).</i>
-</p>
-
-| 🪰 **[DROSOMIND Simulator](https://realgauravvyas.github.io/drosomind/)** | 🌀 **[Mathematical Surprises](https://realgauravvyas.github.io/mathematical-surprises/)** | 🔶 **[What Survives The Sieve](https://realgauravvyas.github.io/)** | 🌱 **[CarbonCampus PWA](https://realgauravvyas.github.io/carboncampus/)** |
-| :---: | :---: | :---: | :---: |
-| 166k neurons &middot; 125M synapses &middot; 3D fly organism | 250+ live interactive simulations with real-time sliders | Live in-browser Sieve of Eratosthenes indexing 12 projects | Offline-first campus carbon calculator (Avinya 2026) |
-| [Launch Simulator ↗](https://realgauravvyas.github.io/drosomind/) | [Explore 250+ Visuals ↗](https://realgauravvyas.github.io/mathematical-surprises/) | [Visit Live Portfolio ↗](https://realgauravvyas.github.io/) | [Open Web App ↗](https://realgauravvyas.github.io/carboncampus/) |
-
----
-
-### 🧭 What I'm building
-
-**Mathematics & number theory**
-
-| | |
-|---|---|
-| 🔢 **[ramanujan-primes-beyond-1e19](https://github.com/realgauravvyas/ramanujan-primes-beyond-1e19)** | The A181671 extension: a(18)–a(23) published in OEIS — paper, C++/Python sieve, and certificates |
-| ⚡ **[ramanujan-primes-beyond-2-56](https://github.com/realgauravvyas/ramanujan-primes-beyond-2-56)** | The base-2 sibling: a(57)–a(72) of A190502 accepted and published in the OEIS through 2⁷² |
-| 🌀 **[mathematical-surprises](https://github.com/realgauravvyas/mathematical-surprises)** | A live gallery of interactive math & physics — the equation, the picture, and *why it's weird*, side by side |
-
-**Machine learning & computational biology**
-
-| | |
-|---|---|
-| 🪰 **[drosomind](https://github.com/realgauravvyas/drosomind)** ([Live Demo](https://realgauravvyas.github.io/drosomind/)) | Live in-silico male fruit fly connectome & bio-acoustic organism simulator (Google Research *Cell* 2026 milestone) |
-| ♟️ **[chess-ai](https://github.com/realgauravvyas/chess-ai)** | A 760k-parameter residual policy–value net: supervised pretraining, then gated self-play RL, with a live training dashboard |
-| ✍️ **[ocr2tex](https://github.com/realgauravvyas/ocr2tex)** | LoRA fine-tunes of GLM-OCR &amp; Baidu OCR turning handwritten mathematics into compilable LaTeX PDFs |
-| 🤖 **[Gemini-AI-Studio](https://github.com/realgauravvyas/Gemini-AI-Studio)** | Gemini-powered assignment evaluator |
-
-**Applied**
-
-| | |
-|---|---|
-| 🌱 **[carboncampus](https://realgauravvyas.github.io/carboncampus/)** | Campus-calibrated urban carbon calculator — offline-first PWA, no backend needed |
-| 🛰️ **[drishti](https://github.com/realgauravvyas/drishti)** | Post-disaster "information fog" resolver: calibrated belief over conflicting settlement reports plus asset routing on a damaged road network |
-| 📷 **[hemispheR-py](https://github.com/realgauravvyas/hemispheR-py)** | Clean-room canopy photo analysis from first principles (LAI &amp; gap fraction) paired with a native Android field app |
-
----
-
-### 🎮 Blackout Studio
-
-I also build complete games solo — engine, art and audio. Both are zero-dependency and
-fully offline, with every sprite and sound generated at runtime.
-
-| | |
-|---|---|
-| 📱 **[Voltfall](https://github.com/realgauravvyas/blackout-studio/tree/main/voltfall)** — Android | Neon survival-action roguelite, ~95 KB |
-| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/blackout-studio/tree/main/neon-depths)** — Windows | Neon twin-stick roguelite, twelve floors, one life, ~99 MB |
+| Project | Platform &amp; Scope | Highlights |
+| :--- | :--- | :--- |
+| 📱 **[Voltfall](https://github.com/realgauravvyas/blackout-studio/tree/main/voltfall)** | Android Roguelite | **~94 KB APK** &bull; Custom SurfaceView engine &bull; Zero runtime dependencies &bull; No INTERNET permission |
+| 🖥️ **[Neon Depths](https://github.com/realgauravvyas/blackout-studio/tree/main/neon-depths)** | Windows Roguelite | Twin-stick action &bull; Procedural audio &amp; geometry &bull; 12 floors |
+| 📷 **[hemispheR-py](https://github.com/realgauravvyas/hemispheR-py)** | Python &amp; Android | Clean-room optical canopy physics &amp; Leaf Area Index (LAI) estimation for field ecologists |
+| 🌱 **[carboncampus](https://realgauravvyas.github.io/carboncampus/)** | Offline-First PWA | Campus carbon footprint calculator &bull; Shared client/server engine &bull; IndexedDB |
 
 ---
 

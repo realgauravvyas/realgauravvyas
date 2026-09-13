@@ -14,7 +14,7 @@
 
 # Gaurav Vyas
 
-Student of **IIT Guwahati** in B.Sc. (Hons.) Data Science &amp; Artificial Intelligence (CGPA 7.75), with degree research centered on **deep-learning side-channel cryptanalysis** (recovering a certified 128-bit AES key from physical power traces), **vision-language mathematical document AI**, and **computational neuroscience** — complemented by statistical training as a student of **ISI Kolkata** in the Post Graduate Diploma in Applied Statistics (competitive merit entrance, full scholarship), alongside extending and publishing **OEIS A181671** (to 10²³) and **OEIS A190502** (to 2⁷²).
+Student of **IIT Guwahati** in B.Sc. (Hons.) Data Science &amp; Artificial Intelligence (CPI 7.5, Oct 2023 – Sep 2027), with degree research centered on **deep-learning side-channel cryptanalysis** (recovering a certified 128-bit AES key from physical power traces), **vision-language mathematical document AI**, and **computational neuroscience** — complemented by statistical training as a student of **ISI Kolkata** in the Post Graduate Diploma in Applied Statistics (Aug 2026 – Aug 2027; qualified admission test with full tuition fee waiver of ₹4,50,000), alongside extending and publishing **OEIS A181671** (to 10²³) and **OEIS A190502** (to 2⁷²).
 
 🌐 **Academic Profile:** [socialpsychology.org/member/gaurav-vyas](https://www.socialpsychology.org/member/gaurav-vyas) &bull; 📄 **Resume:** [Gaurav_Vyas_Resume.pdf](https://realgauravvyas.github.io/assets/Gaurav_Vyas_Resume.pdf) &bull; ✉️ **Contact:** [g.vyas@op.iitg.ac.in](mailto:g.vyas@op.iitg.ac.in)
 
